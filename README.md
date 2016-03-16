@@ -12,5 +12,6 @@
   - https://www.shadertoy.com/view/lslXW8
  - article
   - http://antigrain.com/research/adaptive_bezier/
+  - http://antigrain.com/research/bezier_interpolation/index.html#PAGE_BEZIER_INTERPOLATION
   - https://css-tricks.com/rendering-svg-paths-in-webgl/
   - http://mattdesl.svbtle.com/drawing-lines-is-hard
