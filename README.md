@@ -9,5 +9,8 @@
   - [skia](https://fiddle.skia.org)
  - demo
   - https://github.com/mattdesl/svg-mesh-3d
+  - https://www.shadertoy.com/view/lslXW8
  - article
   - http://antigrain.com/research/adaptive_bezier/
+  - https://css-tricks.com/rendering-svg-paths-in-webgl/
+  - http://mattdesl.svbtle.com/drawing-lines-is-hard
