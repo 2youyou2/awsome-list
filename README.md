@@ -15,3 +15,5 @@
   - http://antigrain.com/research/bezier_interpolation/index.html#PAGE_BEZIER_INTERPOLATION
   - https://css-tricks.com/rendering-svg-paths-in-webgl/
   - http://mattdesl.svbtle.com/drawing-lines-is-hard
+  - http://blog.abandonedwig.info/blog/2013/02/24/edge-distance-anti-aliasing.html
+  - http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter22.html
