@@ -23,5 +23,6 @@
   - http://web.archive.org/web/20121218213317/http://devmaster.net/posts/3100/shader-effects-glow-and-bloom#
  - demo
   - http://codepen.io/mishaa/pen/raKzrm
+  - http://codepen.io/tmrDevelops/pen/dYxGrO?editors=1010
  - lib
   - https://github.com/pixijs/pixi-extra-filters
