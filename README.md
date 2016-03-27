@@ -17,3 +17,11 @@
   - http://mattdesl.svbtle.com/drawing-lines-is-hard
   - http://blog.abandonedwig.info/blog/2013/02/24/edge-distance-anti-aliasing.html
   - http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter22.html
+
+**Glow, Bloom, Blur**
+ - article
+  - http://web.archive.org/web/20121218213317/http://devmaster.net/posts/3100/shader-effects-glow-and-bloom#
+ - demo
+  - http://codepen.io/mishaa/pen/raKzrm
+ - lib
+  - https://github.com/pixijs/pixi-extra-filters
