@@ -10,6 +10,7 @@
  - demo
   - https://github.com/mattdesl/svg-mesh-3d
   - https://www.shadertoy.com/view/lslXW8
+  - http://bl.ocks.org/1wheel/a9a5d7cf4ea37217c8c0
  - article
   - http://antigrain.com/research/adaptive_bezier/
   - http://antigrain.com/research/bezier_interpolation/index.html#PAGE_BEZIER_INTERPOLATION
