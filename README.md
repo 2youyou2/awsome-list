@@ -28,3 +28,7 @@
   - http://codepen.io/tmrDevelops/pen/dYxGrO?editors=1010
  - lib
   - https://github.com/pixijs/pixi-extra-filters
+
+**Open Source Game**
+ - html5
+  - https://github.com/evanw/rapt 
