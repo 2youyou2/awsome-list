@@ -29,6 +29,10 @@
  - lib
   - https://github.com/pixijs/pixi-extra-filters
 
+**Bezier**
+ - https://pomax.github.io/bezierinfo/
+ - https://github.com/Pomax/bezierjs
+
 **Open Source Game**
  - html5
   - https://github.com/evanw/rapt 
