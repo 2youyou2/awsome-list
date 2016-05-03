@@ -23,11 +23,16 @@
 **Glow, Bloom, Blur**
  - article
   - http://web.archive.org/web/20121218213317/http://devmaster.net/posts/3100/shader-effects-glow-and-bloom#
+  - https://github.com/mattdesl/lwjgl-basics/wiki/ShaderLesson5
+  - http://blog.ivank.net/fastest-gaussian-blur.html
+  - http://http.developer.nvidia.com/GPUGems3/gpugems3_ch40.html
+  - http://rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/
  - demo
   - http://codepen.io/mishaa/pen/raKzrm
   - http://codepen.io/tmrDevelops/pen/dYxGrO?editors=1010
  - lib
   - https://github.com/pixijs/pixi-extra-filters
+  - https://github.com/Jam3/glsl-fast-gaussian-blur
 
 **Bezier**
  - https://pomax.github.io/bezierinfo/
