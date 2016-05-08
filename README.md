@@ -33,6 +33,8 @@
  - lib
   - https://github.com/pixijs/pixi-extra-filters
   - https://github.com/Jam3/glsl-fast-gaussian-blur
+  - https://github.com/evanw/glfx.js
+  - https://github.com/evanw/webgl-filter
 
 **Bezier**
  - https://pomax.github.io/bezierinfo/
