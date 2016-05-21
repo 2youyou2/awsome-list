@@ -27,6 +27,7 @@
   - http://blog.ivank.net/fastest-gaussian-blur.html
   - http://http.developer.nvidia.com/GPUGems3/gpugems3_ch40.html
   - http://rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/
+  - https://github.com/mapbox/mapbox-gl-native/pull/192/files#diff-f39e877f6ac11c74e9631e20cc66edd0R1
  - demo
   - http://codepen.io/mishaa/pen/raKzrm
   - http://codepen.io/tmrDevelops/pen/dYxGrO?editors=1010
