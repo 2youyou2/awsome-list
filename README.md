@@ -10,7 +10,7 @@
  - demo
   - https://github.com/mattdesl/svg-mesh-3d
   - https://www.shadertoy.com/view/lslXW8
-  - http://bl.ocks.org/1wheel/a9a5d7cf4ea37217c8c0
+  - http://bl.ocks.org/1wheel/a9a5d7cf4ea37217c8c0u
  - article
   - http://antigrain.com/research/adaptive_bezier/
   - http://antigrain.com/research/bezier_interpolation/index.html#PAGE_BEZIER_INTERPOLATION
@@ -19,6 +19,8 @@
   - http://blog.abandonedwig.info/blog/2013/02/24/edge-distance-anti-aliasing.html
   - http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter22.html
   - https://www.mapbox.com/blog/drawing-antialiased-lines/
+ - issues
+  - https://github.com/mapbox/mapbox-gl-js/issues/682 
 
 **Glow, Bloom, Blur**
  - article
