@@ -47,3 +47,7 @@
 **Open Source Game**
  - html5
   - https://github.com/evanw/rapt 
+
+**Physics**
+ - article
+  - ccd http://www.gdcvault.com/play/1018239/Physics-for-Game-Programmers-Continuous
