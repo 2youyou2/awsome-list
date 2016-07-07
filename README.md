@@ -42,6 +42,7 @@
 **Bezier**
  - https://pomax.github.io/bezierinfo/
  - https://github.com/Pomax/bezierjs
+ - http://steve.hollasch.net/cgindex/curves/cbezarclen.html
 
 **Open Source Game**
  - html5
