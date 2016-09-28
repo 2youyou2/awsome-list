@@ -52,3 +52,4 @@
  - article
   - ccd http://www.gdcvault.com/play/1018239/Physics-for-Game-Programmers-Continuous
   - Super Character Controller https://roystanross.wordpress.com/downloads/
+  - Go-With-the-Flow-Fluid http://www.gdcvault.com/play/1012447/Go-With-the-Flow-Fluid
