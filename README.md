@@ -19,6 +19,7 @@
   - http://blog.abandonedwig.info/blog/2013/02/24/edge-distance-anti-aliasing.html
   - http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter22.html
   - https://www.mapbox.com/blog/drawing-antialiased-lines/
+  - http://perfectionkills.com/exploring-canvas-drawing-techniques/
  - issues
   - https://github.com/mapbox/mapbox-gl-js/issues/682 
 
