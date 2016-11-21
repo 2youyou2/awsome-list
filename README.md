@@ -20,6 +20,7 @@
   - http://http.developer.nvidia.com/GPUGems2/gpugems2_chapter22.html
   - https://www.mapbox.com/blog/drawing-antialiased-lines/
   - http://perfectionkills.com/exploring-canvas-drawing-techniques/
+  - https://forum.libcinder.org/topic/smooth-thick-lines-using-geometry-shader
  - issues
   - https://github.com/mapbox/mapbox-gl-js/issues/682 
 
