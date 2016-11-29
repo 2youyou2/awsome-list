@@ -49,6 +49,9 @@
 **Open Source Game**
  - html5
   - https://github.com/evanw/rapt 
+  - https://github.com/gre/behind-asteroids
+  - https://github.com/remvst/glitchbuster
+  - https://github.com/agar3s/devil-glitches
 
 **Physics**
  - article
