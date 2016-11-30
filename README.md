@@ -52,6 +52,7 @@
   - https://github.com/gre/behind-asteroids
   - https://github.com/remvst/glitchbuster
   - https://github.com/agar3s/devil-glitches
+  - https://github.com/huytd/agar.io-clone
 
 **Physics**
  - article
