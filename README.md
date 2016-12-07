@@ -63,6 +63,8 @@
 **Platformer**  
   - http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/
   - http://www.wildbunny.co.uk/blog/2011/12/14/how-to-make-a-2d-platform-game-part-2-collision-detection/
+  - http://codepen.io/desandro/pen/MYxVVa?editors=0010
+  - http://codepen.io/dissimulate/pen/CqIxk
 
 **gl**
  - tool
