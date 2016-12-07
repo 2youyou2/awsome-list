@@ -59,6 +59,10 @@
   - ccd http://www.gdcvault.com/play/1018239/Physics-for-Game-Programmers-Continuous
   - Super Character Controller https://roystanross.wordpress.com/downloads/
   - Go-With-the-Flow-Fluid http://www.gdcvault.com/play/1012447/Go-With-the-Flow-Fluid
+  
+**Platformer**  
+  - http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/
+  - http://www.wildbunny.co.uk/blog/2011/12/14/how-to-make-a-2d-platform-game-part-2-collision-detection/
 
 **gl**
  - tool
