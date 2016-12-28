@@ -59,6 +59,10 @@
   - ccd http://www.gdcvault.com/play/1018239/Physics-for-Game-Programmers-Continuous
   - Super Character Controller https://roystanross.wordpress.com/downloads/
   - Go-With-the-Flow-Fluid http://www.gdcvault.com/play/1012447/Go-With-the-Flow-Fluid
+ - broad phase
+  - http://buildnewgames.com/broad-phase-collision-detection/
+  - http://www.randygaul.net/2013/08/06/dynamic-aabb-tree/
+  - http://allenchou.net/2014/02/game-physics-broadphase-dynamic-aabb-tree/
   
 **Platformer**  
   - http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/
