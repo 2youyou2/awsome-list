@@ -74,3 +74,17 @@
  - tool
   - https://github.com/gre/glsl-uniforms-editor
   - https://github.com/gre/gl-react
+
+**v8**
+ - article
+  - https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html
+  - https://github.com/thlorenz/v8-perf/blob/master/data-types.md#assigning-properties-inside-constructor-call
+  - https://v8project.blogspot.jp/2017/08/fast-properties.html
+  - https://gist.github.com/kevincennis/0cd2138c78a07412ef21
+  - https://github.com/xitu/gold-miner/blob/master/TODO/tracing-patterns-hinder-performance.md
+  - https://github.com/bluezhan/v8
+  - https://zhuanlan.zhihu.com/p/28590489
+  - http://newhtml.net/v8-object-representation/
+  - https://juejin.im/post/5959edfc5188250d83241399
+  - https://zhuanlan.zhihu.com/p/24982678
+  - https://zhuanlan.zhihu.com/p/25069272
