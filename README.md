@@ -93,3 +93,9 @@
    - mega
      - https://varun.ca/metaballs/
      - http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/
+
+**Rendering**
+ - dFdx/dFdy
+   - http://www.aclockworkberry.com/shader-derivative-functions/
+ - gpu
+   - [How a gpu works](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f12/www/lec_slides/462_gpus.pdf)
