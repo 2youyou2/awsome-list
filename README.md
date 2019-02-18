@@ -24,8 +24,6 @@
  - issues
    - https://github.com/mapbox/mapbox-gl-js/issues/682 
 
-**Glow, Bloom, Blur**
-
 
 **Bezier**
  - https://pomax.github.io/bezierinfo/
