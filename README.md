@@ -25,21 +25,7 @@
    - https://github.com/mapbox/mapbox-gl-js/issues/682 
 
 **Glow, Bloom, Blur**
- - article
-   - http://web.archive.org/web/20121218213317/http://devmaster.net/posts/3100/shader-effects-glow-and-bloom#
-   - https://github.com/mattdesl/lwjgl-basics/wiki/ShaderLesson5
-   - http://blog.ivank.net/fastest-gaussian-blur.html
-   - http://http.developer.nvidia.com/GPUGems3/gpugems3_ch40.html
-   - http://rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/
-   - https://github.com/mapbox/mapbox-gl-native/pull/192/files#diff-f39e877f6ac11c74e9631e20cc66edd0R1
- - demo
-   - http://codepen.io/mishaa/pen/raKzrm
-   - http://codepen.io/tmrDevelops/pen/dYxGrO?editors=1010
- - lib
-   - https://github.com/pixijs/pixi-extra-filters
-   - https://github.com/Jam3/glsl-fast-gaussian-blur
-   - https://github.com/evanw/glfx.js
-   - https://github.com/evanw/webgl-filter
+
 
 **Bezier**
  - https://pomax.github.io/bezierinfo/
@@ -99,3 +85,19 @@
    - http://www.aclockworkberry.com/shader-derivative-functions/
  - gpu
    - [How a gpu works](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f12/www/lec_slides/462_gpus.pdf)
+ - Glow, Bloom, Blur
+    - article
+      - http://web.archive.org/web/20121218213317/http://devmaster.net/posts/3100/shader-effects-glow-and-bloom#
+      - https://github.com/mattdesl/lwjgl-basics/wiki/ShaderLesson5
+      - http://blog.ivank.net/fastest-gaussian-blur.html
+      - http://http.developer.nvidia.com/GPUGems3/gpugems3_ch40.html
+      - http://rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/
+      - https://github.com/mapbox/mapbox-gl-native/pull/192/files#diff-f39e877f6ac11c74e9631e20cc66edd0R1
+    - demo
+      - http://codepen.io/mishaa/pen/raKzrm
+      - http://codepen.io/tmrDevelops/pen/dYxGrO?editors=1010
+    - lib
+      - https://github.com/pixijs/pixi-extra-filters
+      - https://github.com/Jam3/glsl-fast-gaussian-blur
+      - https://github.com/evanw/glfx.js
+      - https://github.com/evanw/webgl-filter
