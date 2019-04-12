@@ -58,6 +58,8 @@
  - tool
    - https://github.com/gre/glsl-uniforms-editor
    - https://github.com/gre/gl-react
+   - https://github.com/wshxbqq/GLSL-Card
+   - https://webglstats.com/webgl
 
 **v8**
  - article
