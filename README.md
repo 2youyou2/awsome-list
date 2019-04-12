@@ -73,7 +73,7 @@
    - https://zhuanlan.zhihu.com/p/24982678
    - https://zhuanlan.zhihu.com/p/25069272
    
-  **display**
+  **Display**
    - mega
      - https://varun.ca/metaballs/
      - http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/
@@ -84,21 +84,25 @@
  - gpu
    - [How a gpu works](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f12/www/lec_slides/462_gpus.pdf)
  - Glow, Bloom, Blur
-    - article
-      - http://web.archive.org/web/20121218213317/http://devmaster.net/posts/3100/shader-effects-glow-and-bloom#
-      - https://github.com/mattdesl/lwjgl-basics/wiki/ShaderLesson5
-      - http://blog.ivank.net/fastest-gaussian-blur.html
-      - http://http.developer.nvidia.com/GPUGems3/gpugems3_ch40.html
-      - http://rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/
-      - https://github.com/mapbox/mapbox-gl-native/pull/192/files#diff-f39e877f6ac11c74e9631e20cc66edd0R1
-    - demo
-      - http://codepen.io/mishaa/pen/raKzrm
-      - http://codepen.io/tmrDevelops/pen/dYxGrO?editors=1010
-    - lib
-      - https://github.com/pixijs/pixi-extra-filters
-      - https://github.com/Jam3/glsl-fast-gaussian-blur
-      - https://github.com/evanw/glfx.js
-      - https://github.com/evanw/webgl-filter
+   - article
+     - http://web.archive.org/web/20121218213317/http://devmaster.net/posts/3100/shader-effects-glow-and-bloom#
+     - https://github.com/mattdesl/lwjgl-basics/wiki/ShaderLesson5
+     - http://blog.ivank.net/fastest-gaussian-blur.html
+     - http://http.developer.nvidia.com/GPUGems3/gpugems3_ch40.html
+     - http://rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/
+     - https://github.com/mapbox/mapbox-gl-native/pull/192/files#diff-f39e877f6ac11c74e9631e20cc66edd0R1
+   - demo
+     - http://codepen.io/mishaa/pen/raKzrm
+     - http://codepen.io/tmrDevelops/pen/dYxGrO?editors=1010
+   - lib
+     - https://github.com/pixijs/pixi-extra-filters
+     - https://github.com/Jam3/glsl-fast-gaussian-blur
+     - https://github.com/evanw/glfx.js
+     - https://github.com/evanw/webgl-filter
+ - blend
+   - https://webdesign.tutsplus.com/tutorials/blending-modes-in-css-color-theory-and-practical-application--cms-25201
+   - https://github.com/jamieowen/glsl-blend
+   
       
 **Network**
 - physics
