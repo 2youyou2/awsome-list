@@ -21,6 +21,8 @@
    - https://www.mapbox.com/blog/drawing-antialiased-lines/
    - http://perfectionkills.com/exploring-canvas-drawing-techniques/
    - https://forum.libcinder.org/topic/smooth-thick-lines-using-geometry-shader
+ - bezier
+   - https://raphlinus.github.io/graphics/curves/2019/12/23/flatten-quadbez.html
  - issues
    - https://github.com/mapbox/mapbox-gl-js/issues/682 
 
@@ -47,6 +49,8 @@
    - http://buildnewgames.com/broad-phase-collision-detection/
    - http://www.randygaul.net/2013/08/06/dynamic-aabb-tree/
    - http://allenchou.net/2014/02/game-physics-broadphase-dynamic-aabb-tree/
+ - collition
+   - https://gdbooks.gitbooks.io/3dcollisions/content/Chapter2/static_aabb_plane.html
   
 **Platformer**  
   - http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/
@@ -110,10 +114,12 @@
    - http://the-witness.net/news/2013/09/shadow-mapping-summary-part-1/
    - http://www.klayge.org/2013/10/07/%E5%88%87%E6%8D%A2%E5%88%B0esm/
    - https://zhuanlan.zhihu.com/p/26853641
+ - text
+   - https://css-tricks.com/techniques-for-rendering-text-with-webgl/
       
 **Network**
 - physics
- - https://gafferongames.com/categories/networked-physics/
- - https://gafferongames.com/post/floating_point_determinism/
- - http://gad.qq.com/program/translateview/7164497
- - https://github.com/SnpM/LockstepFramework
+  - https://gafferongames.com/categories/networked-physics/
+  - https://gafferongames.com/post/floating_point_determinism/
+  - http://gad.qq.com/program/translateview/7164497
+  - https://github.com/SnpM/LockstepFramework
