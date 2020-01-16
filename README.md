@@ -104,7 +104,12 @@
  - blend
    - https://webdesign.tutsplus.com/tutorials/blending-modes-in-css-color-theory-and-practical-application--cms-25201
    - https://github.com/jamieowen/glsl-blend
-   
+ - shadow
+   - https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping
+   - https://software.intel.com/en-us/articles/comparing-shadow-mapping-techniques-with-shadow-explorer
+   - http://the-witness.net/news/2013/09/shadow-mapping-summary-part-1/
+   - http://www.klayge.org/2013/10/07/%E5%88%87%E6%8D%A2%E5%88%B0esm/
+   - https://zhuanlan.zhihu.com/p/26853641
       
 **Network**
 - physics
