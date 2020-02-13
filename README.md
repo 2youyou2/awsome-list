@@ -129,8 +129,13 @@
  - 2d 
   - https://gamedevelopment.tutsplus.com/tutorials/how-to-create-a-custom-2d-physics-engine-the-basics-and-impulse-resolution--gamedev-6331
   
+
 - **Games**
   - inspired
     - https://demos.littleworkshop.fr/infinitown
     - bruno-simon.com
-  
+    
+
+- **Environment**
+  - Stylized
+    - https://kidswithsticks.com/creating-stylized-art-inspired-by-ghibli-using-unreal-engine-4/
