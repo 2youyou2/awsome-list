@@ -124,5 +124,7 @@
   - http://gad.qq.com/program/translateview/7164497
   - https://github.com/SnpM/LockstepFramework
   - https://gameinstitute.qq.com/community/detail/100116
+  - http://clintonbrennan.com/2014/01/simple-2d-deterministic-physics-simulation/
+  - http://clintonbrennan.com/2013/12/lockstep-implementation-in-unity3d/
  - 2d 
   - https://gamedevelopment.tutsplus.com/tutorials/how-to-create-a-custom-2d-physics-engine-the-basics-and-impulse-resolution--gamedev-6331
