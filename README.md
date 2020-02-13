@@ -117,9 +117,12 @@
  - text
    - https://css-tricks.com/techniques-for-rendering-text-with-webgl/
       
-**Network**
-- physics
+**Physics**
+- network
   - https://gafferongames.com/categories/networked-physics/
   - https://gafferongames.com/post/floating_point_determinism/
   - http://gad.qq.com/program/translateview/7164497
   - https://github.com/SnpM/LockstepFramework
+  - https://gameinstitute.qq.com/community/detail/100116
+ - 2d 
+  - https://gamedevelopment.tutsplus.com/tutorials/how-to-create-a-custom-2d-physics-engine-the-basics-and-impulse-resolution--gamedev-6331
