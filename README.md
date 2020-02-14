@@ -126,16 +126,16 @@
   - https://gameinstitute.qq.com/community/detail/100116
   - http://clintonbrennan.com/2014/01/simple-2d-deterministic-physics-simulation/
   - http://clintonbrennan.com/2013/12/lockstep-implementation-in-unity3d/
- - 2d 
+- 2d 
   - https://gamedevelopment.tutsplus.com/tutorials/how-to-create-a-custom-2d-physics-engine-the-basics-and-impulse-resolution--gamedev-6331
   
 
-- **Games**
+**Games**
   - inspired
     - https://demos.littleworkshop.fr/infinitown
     - bruno-simon.com
     
 
-- **Environment**
+**Environment**
   - Stylized
     - https://kidswithsticks.com/creating-stylized-art-inspired-by-ghibli-using-unreal-engine-4/
