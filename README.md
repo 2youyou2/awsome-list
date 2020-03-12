@@ -116,6 +116,9 @@
    - https://zhuanlan.zhihu.com/p/26853641
  - text
    - https://css-tricks.com/techniques-for-rendering-text-with-webgl/
+ - Signed distance fields (SDFs)
+   - https://zhuanlan.zhihu.com/p/26217154
+   - http://iquilezles.org/www/articles/interiordistance/interiordistance.htm
       
 **Physics**
 - network
