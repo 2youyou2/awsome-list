@@ -142,3 +142,10 @@
 **Environment**
   - Stylized
     - https://kidswithsticks.com/creating-stylized-art-inspired-by-ghibli-using-unreal-engine-4/
+
+**Editor**
+ - Visual Scripting
+   - https://github.com/retejs/rete
+   - https://github.com/ocornut/imgui/issues/306
+   - https://github.com/thedmd/imgui-node-editor
+   - https://github.com/Immediate-Mode-UI/Nuklear
