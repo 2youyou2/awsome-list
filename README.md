@@ -120,6 +120,10 @@
  - Signed distance fields (SDFs)
    - https://zhuanlan.zhihu.com/p/26217154
    - http://iquilezles.org/www/articles/interiordistance/interiordistance.htm
+ - anti aliasing
+   - https://xiaoiver.github.io/coding/2019/02/02/%E5%8F%8D%E8%B5%B0%E6%A0%B7%E6%8A%80%E6%9C%AF-%E4%B8%89.html
+   - https://zhuanlan.zhihu.com/p/28800047
+   - https://threejs.org/examples/webgl_postprocessing_ssaa.html
       
 **Physics**
 - network
