@@ -158,3 +158,8 @@
    - https://github.com/ocornut/imgui/issues/306
    - https://github.com/thedmd/imgui-node-editor
    - https://github.com/Immediate-Mode-UI/Nuklear
+   
+**Resources**
+  - skybox
+    - https://hdrihaven.com/hdris/
+  
