@@ -148,6 +148,7 @@
   - Stylized
     - https://kidswithsticks.com/creating-stylized-art-inspired-by-ghibli-using-unreal-engine-4/
     - https://jesshiderue4.wordpress.com/materials/stylized-wind-blown-grass/
+    - https://80.lv/articles/meadows-creating-stylized-nature-in-ue4/
 
 **Editor**
  - Visual Scripting
