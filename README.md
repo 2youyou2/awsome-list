@@ -118,6 +118,8 @@
    - https://learnopengl.com/PBR/Theory
  - depth buffer
    - https://www.cyanilux.com/tutorials/depth/#depth
+ - noise
+   - https://www.ronja-tutorials.com/2018/09/29/voronoi-noise.html
       
 **Physics**
 - network
