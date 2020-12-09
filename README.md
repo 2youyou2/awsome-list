@@ -120,6 +120,8 @@
    - https://www.cyanilux.com/tutorials/depth/#depth
  - noise
    - https://www.ronja-tutorials.com/2018/09/29/voronoi-noise.html
+ - subsurface
+   - https://www.patreon.com/posts/subsurface-write-20905461
       
 **Physics**
 - network
