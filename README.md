@@ -116,6 +116,7 @@
    - https://mp.weixin.qq.com/s/mb6WZRTackfnDQCSOo_WvQ
    - https://www.jordanstevenstechart.com/physically-based-rendering
    - https://learnopengl.com/PBR/Theory
+   - https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf
  - depth buffer
    - https://www.cyanilux.com/tutorials/depth/#depth
  - noise
