@@ -170,6 +170,11 @@
    - https://github.com/thedmd/imgui-node-editor
    - https://github.com/Immediate-Mode-UI/Nuklear
    
+**Animation**
+  - 3D Skeleton
+    - https://80.lv/articles/animcraft-1-1-available/
+    - https://blendermarket.com/products/auto-rig-pro
+   
 **Resources**
   - skybox
     - https://hdrihaven.com/hdris/
