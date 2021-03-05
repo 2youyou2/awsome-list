@@ -178,6 +178,9 @@
 **Resources**
   - skybox
     - https://hdrihaven.com/hdris/
+  - models
+    - https://evermotion.org/shop/show_product/15th-anniversary-collection/16094
+    - https://kitbash3d.com/
     
 **Lessions**
   - www.udemy.com
