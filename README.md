@@ -123,6 +123,11 @@
    - https://www.ronja-tutorials.com/2018/09/29/voronoi-noise.html
  - subsurface
    - https://www.patreon.com/posts/subsurface-write-20905461
+ - volumetric fog
+   - https://www.gdcvault.com/play/1023519/Fast-Flexible-Physically-Based-Volumetric
+   - https://developer.nvidia.com/volumetriclighting
+   - http://advances.realtimerendering.com/s2014/wronski/bwronski_volumetric_fog_siggraph2014.pdf
+   - https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite
       
 **Physics**
 - network
