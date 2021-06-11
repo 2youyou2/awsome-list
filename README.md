@@ -128,6 +128,7 @@
    - https://developer.nvidia.com/volumetriclighting
    - http://advances.realtimerendering.com/s2014/wronski/bwronski_volumetric_fog_siggraph2014.pdf
    - https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite
+   - https://simoncoenen.com/blog/programming/graphics/SpotlightCulling
       
 **Physics**
 - network
