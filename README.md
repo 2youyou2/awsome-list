@@ -129,7 +129,11 @@
    - http://advances.realtimerendering.com/s2014/wronski/bwronski_volumetric_fog_siggraph2014.pdf
    - https://www.ea.com/frostbite/news/physically-based-unified-volumetric-rendering-in-frostbite
    - https://simoncoenen.com/blog/programming/graphics/SpotlightCulling
-      
+
+**Octree**
+- https://geidav.wordpress.com/2014/07/18/advanced-octrees-1-preliminaries-insertion-strategies-and-max-tree-depth/
+- https://github.com/vanruesc/sparse-octree
+
 **Physics**
 - network
   - https://gafferongames.com/categories/networked-physics/
